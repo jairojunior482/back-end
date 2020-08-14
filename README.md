@@ -1,7 +1,6 @@
 <h1 align="center">
 Create User
 </h1>
-<h1 align="center"><img src="https://terminalroot.com.br/assets/img/js/nodejs.jpg" heigh="75%" width="75%"></h1>
 
 # Índice
 
